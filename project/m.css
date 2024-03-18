@@ -1,0 +1,76 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  body{
+    background-color: #ffffff;
+  }
+  .container{
+    width: 400px;
+    height: 420px;
+    border: 2px solid black;
+    background: rgb(255,255,255);
+    background: rgb(255,255,255);
+    border-radius: 16px;
+  }
+  .p1{
+    font-family: 'Roboto', sans-serif;
+    padding-left: 40%;
+    font-weight: bold;
+    font-size: 30px;
+  }
+  .menu{
+    height: 80px;
+    width: 60%;
+    padding-left: 5%;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    border-radius: 16px;
+  }
+  .i{
+    height: 30px;
+    width: 144%;
+    margin-top: 10%;
+    margin-left: -3%;
+    border-radius: 7px;
+    padding-left: 10%;
+  }
+  .menu1{
+    padding-top: 7%;
+    height: 25px;
+    width: 80%;
+    padding-left: -2%;
+    padding-right: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  .btn{
+    border: 0;
+    margin-left: 30%;
+    padding-top: 0;
+    margin-top: -16%;
+    border-radius: 7px;
+    background-color: rgba(255, 255, 255, 0.904);
+    text-decoration: none;
+    color: rgb(48, 10, 216, 0.904);
+    height: 35px;
+    width: 150px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+  }
+  .btn1{
+    margin-left: 30%;
+    padding-top: 0;
+    margin-top: 20%;
+    border-radius: 7px;
+    background-color: rgba(48, 10, 216, 0.904);
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    height: 35px;
+    width: 150px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+  }
+  

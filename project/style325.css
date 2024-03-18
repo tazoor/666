@@ -1,0 +1,117 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+  body{
+    background-color: #ffffff;
+}
+.menu1{
+    padding-top: 1%;
+    height: 25px;
+    width: 80%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  .btn{
+    border: 0;
+    padding-top: 0;
+    border-radius: 7px;
+    background-color: rgba(255, 255, 255, 0.904);
+    text-decoration: none;
+    color: rgb(48, 10, 216, 0.904);
+    height: 35px;
+    width: 150px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+  }
+.v{
+    margin-top: 2%;
+    margin-left: 6%;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+  }
+  .gd{
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 15px;
+  }
+  .gd1{
+    margin-top: 5%;
+    margin-left: 40%;
+    border-radius: 15px;
+  }
+.z{
+    height: 59%;
+    width: 70%;
+    border: 2px black;
+    padding-top: 10%;
+    padding-left: 10%;
+    background-color: #ffffff;
+    border-radius: 16px;
+}
+.p1{
+    font-family: 'Roboto', sans-serif;
+    padding-left: 38%;
+    font-weight: bold;
+    color:#628acf;;
+    font-size: 30px;
+  }
+  .p2{
+    font-family: 'Roboto', sans-serif;
+    padding-left: 25%;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: -7%;
+    color:#628acf;;
+  }
+  .p4{
+    font-family: 'Roboto', sans-serif;
+    padding-left: 5%;
+    font-weight: bold;
+    font-size: 21px;
+    color:black;
+  }
+  .p3{
+    font-family: 'Roboto', sans-serif;
+    padding-left: 43%;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 0%;
+    color:#628acf;;
+  }
+  .fon{
+    background-color: #e2edfd;
+    height: 300px;
+    width: 90%;
+    border-radius: 16px;
+  }
+  .fon2{
+    background-color:  #e2edfd;
+    height: 1250px;
+    width: 90%;
+    margin-top: 0%;
+    border-radius: 16px;
+  }
+  .menu{
+    height: 80px;
+    width: 60%;
+    padding-left: 5%;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  }
+  .fon1{
+    background-color: #ffffff;
+    width: 300%;
+    height: 1005;
+  }
+  .i{
+    height: 50px;
+    width: 144%;
+    padding-top: 3%;
+    margin-top: 5%;
+    border-radius: 7px;
+    padding-left: 10%;
+    background-color: #ffffff;
+  }
+  

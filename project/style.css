@@ -1,0 +1,55 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #ffffff;
+}
+.container2{
+    width: 400px;
+    height: 620px;
+    border: 2px solid black;
+    background: rgb(255,255,255);
+    border-radius: 16px;
+}
+.p{
+  font-family: 'Roboto', sans-serif;
+  padding-left: 20%;
+  font-weight: bold;
+  font-size: 34px;
+}
+.p1{
+  font-family: 'Roboto', sans-serif;
+  font: 20px bold;
+  padding-left: 5%;
+}
+.menu{
+  height: 80px;
+  width: 60%;
+  padding-left: 5%;
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+.i{
+  height: 30px;
+  width: 144%;
+  margin-top: 10%;
+  margin-left: -3%;
+  border-radius: 7px;
+  padding-left: 10%;
+}
+
+.btn{
+  margin-left: 30%;
+  padding-top: 0;
+  margin-top: 88%;
+  border-radius: 7px;
+  background-color: rgba(48, 10, 216, 0.904);
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  height: 35px;
+  width: 150px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+}
